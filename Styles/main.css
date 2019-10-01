@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  line-height: 2em;
+}
+
+li {
+  list-style-type: none;
+  text-align: : left;
+}
+
+a {
+  text-decoration: none;
+}
+
+hr {
+  width: 45%;
+}
+#top {
+  text-align: left;
+}
